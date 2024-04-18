@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Textinho](https://github.com/thalesgmartins/icons/blob/main/apps/fusion360.svg)
+
 <!--
 **thalesgmartins/thalesgmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
