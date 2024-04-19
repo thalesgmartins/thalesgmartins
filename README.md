@@ -1,5 +1,7 @@
 ### Opa, eu me chamo Thales Martins 👋
 
+> 💻 Eu sou o caminho a verdade e o sistema
+
 <!--
 
 - 🔭 I’m currently working on ...
