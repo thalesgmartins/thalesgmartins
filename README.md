@@ -8,15 +8,17 @@
 
 - Arduíno Language;
 
-- C
+- C;
 
-- Js
+- Js;
 
-- HTML
+- HTML;
 
-- CSS
+- CSS;
 
-- MQTT
+- MQTT;
+
+- 3D Printing.
 
 ---
 
@@ -25,6 +27,8 @@
 - Arduíno IDE;
 
 - Fusion 360;
+
+- Photoshop;
 
 - Obsidian;
 
