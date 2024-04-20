@@ -1,15 +1,35 @@
 ## Opa, eu me chamo Thales Martins 👋
 
-> 💻 Eu sou o caminho a verdade e o sistema
+<!-- Colocar Banner -->
 
-<!--
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤔 Conhecimentos
+
+- Arduíno Language;
+
+- C
+
+- Js
+
+- HTML
+
+- CSS
+
+- MQTT
+
+---
+
+### 🪛 Ferramentas
+
+- Arduíno IDE;
+
+- Fusion 360;
+
+- Obsidian;
+
+- Home Assistant.
+
+---
+
+## 💻 Eu sou o caminho a verdade e o sistema.
