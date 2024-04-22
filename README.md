@@ -5,7 +5,8 @@
           style="display:block; margin-left: auto; margin-right: auto;" />
 </p>
 
-## 🤔 Knowledge
+<h2 align="center">🤔 Knowledge</h2>
+
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
        <img src="https://raw.githubusercontent.com/thalesgmartins/icons/main/languages/arduino-language.svg" alt="Arduino Language" style="width: 80px;">
@@ -23,7 +24,7 @@
 
 ---
 
-## 🧰 Tools
+<h2 align="center">🧰 Tools</h2>
 
 - Arduíno IDE;
 
