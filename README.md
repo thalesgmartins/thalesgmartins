@@ -1,6 +1,6 @@
 ## Hey, Sup! I'm Thales Martins 👋
 ---
-![[assets/banner.png]]
+<img src="assets/banner.png" href="github.com/thales.gmartins">
 ---
 
 ### 🤔 Knowledge
