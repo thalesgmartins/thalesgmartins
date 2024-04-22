@@ -1,9 +1,10 @@
-# Hey, Sup! I'm Thales Martins 👋
 <p align="center">
      <img src="assets/banner.png"
           alt="HomePage Banner"
           style="display:block; margin-left: auto; margin-right: auto;" />
 </p>
+
+# Hey, Sup! I'm Thales Martins 👋
 
 <h2 align="center">🤔 Knowledge</h2>
 
