@@ -1,6 +1,6 @@
 ## Hey, Sup! I'm Thales Martins 👋
 ---
-<p style="text-align:center">
+<p align="center">
      <img src="assets/banner.png"
           alt="HomePage Banner"
           style="width: 100px; display:block; margin-left: auto; margin-right: auto;" />
