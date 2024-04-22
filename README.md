@@ -30,21 +30,11 @@
        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/photoshop.png" alt="Photoshop" style="width: 50px;">
        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/obsidian.png" alt="Obsidian" style="width: 50px;">
         <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/home-assistant.png" alt="Home Assistant" style="width: 50px;">
-         <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/mqtt.png" alt="MQTT Protocol" style="width: 50px;">
-          <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/3D-printing.png" alt="3D Printing" style="width: 50px;">
+         <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/vs-code.png" alt="VS Code" style="width: 50px;">
+          <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/github.png" alt="Github" style="width: 50px;">
   </div
 </div>
 
-- Arduíno IDE;
-
-- Fusion 360;
-
-- Photoshop;
-
-- Obsidian;
-
-- Home Assistant.
-
 ---
 
-# 💻 "I am the way, and the truth, and the system."
+## 💻 "I am the way, and the truth, and the system."
