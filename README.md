@@ -10,9 +10,9 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/arduino-language.png" alt="Arduino Language" style="width: 50px;">
-       <img src="https://raw.githubusercontent.com/thalesgmartins/icons/main/languages/java-script.svg" alt="Java Script" style="width: 50px;">
-       <img src="https://raw.githubusercontent.com/thalesgmartins/icons/main/languages/html.svg" alt="HTML 5" style="width: 50px;">
-       <img src="https://raw.githubusercontent.com/thalesgmartins/icons/main/languages/css.svg" alt="CSS 3" style="width: 50px;">
+       <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/java-script.svg" alt="Java Script" style="width: 50px;">
+       <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/html.svg" alt="HTML 5" style="width: 50px;">
+       <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/languages/css.svg" alt="CSS 3" style="width: 50px;">
   </div>
 </div>
 
