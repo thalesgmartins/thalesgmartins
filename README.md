@@ -1,6 +1,8 @@
 ## Hey, Sup! I'm Thales Martins 👋
 ---
-<img src="assets/banner.png" href="github.com/thales.gmartins">
+<img src="assets/banner.png"
+     alt="HomePage Banner"
+     style="width: 100px; display:block; margin-left: auto; margin-right: auto;" />
 ---
 
 ### 🤔 Knowledge
