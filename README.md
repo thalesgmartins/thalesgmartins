@@ -1,11 +1,11 @@
-## Hey, Sup! I'm Thales Martins 👋
+# Hey, Sup! I'm Thales Martins 👋
 <p align="center">
      <img src="assets/banner.png"
           alt="HomePage Banner"
           style="display:block; margin-left: auto; margin-right: auto;" />
 </p>
 
-### 🤔 Knowledge
+## 🤔 Knowledge
 
 - Arduíno Language;
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧰 Tools
+## 🧰 Tools
 
 - Arduíno IDE;
 
@@ -37,4 +37,4 @@
 
 ---
 
-## 💻 "I am the way, and the truth, and the system."
+# 💻 "I am the way, and the truth, and the system."
