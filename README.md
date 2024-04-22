@@ -14,13 +14,13 @@
        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/html.png" alt="HTML 5" style="width: 50px;">
        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/CSS.png" alt="CSS 3" style="width: 50px;">
   </div>
+        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/c.png" alt="C Language" style="width: 50px;">
+  </div
+         <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/mqtt.png" alt="MQTT Protocol" style="width: 50px;">
+  </div
+          <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/3d-printing.png" alt="3D Printing" style="width: 50px;">
+  </div
 </div>
-
-- C;
-
-- MQTT;
-
-- 3D Printing.
 
 ---
 
