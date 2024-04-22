@@ -3,7 +3,7 @@
 <p align="center">
      <img src="assets/banner.png"
           alt="HomePage Banner"
-          style="width: 100px; display:block; margin-left: auto; margin-right: auto;" />
+          style="width: 500px; display:block; margin-left: auto; margin-right: auto;" />
 </p>
 ---
 
