@@ -20,8 +20,6 @@
   </div
 </div>
 
----
-
 <h2 align="center">🧰 Tools</h2>
 
 <div align="center">
@@ -36,6 +34,4 @@
   </div
 </div>
 
----
-<br>
 <h2 align="center">💻 "I am the way, and the truth, and the system."</h2>
