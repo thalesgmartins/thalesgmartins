@@ -1,10 +1,9 @@
-## Opa, eu me chamo Thales Martins 👋
-
-<!-- Colocar Banner -->
-
+## Hey, Sup! I'm Thales Martins 👋
+---
+![[assets/banner.png]]
 ---
 
-### 🤔 Conhecimentos
+### 🤔 Knowledge
 
 - Arduíno Language;
 
@@ -22,7 +21,7 @@
 
 ---
 
-### 🪛 Ferramentas
+### 🧰 Tools
 
 - Arduíno IDE;
 
@@ -36,4 +35,4 @@
 
 ---
 
-## 💻 Eu sou o caminho a verdade e o sistema.
+## 💻 "I am the way, and the truth, and the system."
