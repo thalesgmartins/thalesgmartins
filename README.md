@@ -6,6 +6,11 @@
 </p>
 
 ## 🤔 Knowledge
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+        <img src="https://raw.githubusercontent.com/thalesgmartins/icons/main/languages/arduino-language.svg" alt="Arduino Language">
+  </div>
+</div>
 
 - Arduíno Language;
 
