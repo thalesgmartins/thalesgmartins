@@ -4,7 +4,7 @@
           style="display:block; margin-left: auto; margin-right: auto;" />
 </p>
 
-# Hey, Sup! I'm Thales Martins 👋
+<h1 align="center">Hey, Sup! I'm Thales Martins 👋</h1>
 
 <h2 align="center">🤔 Knowledge</h2>
 
