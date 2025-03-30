@@ -4,15 +4,15 @@
           style="display:block; margin-left: auto; margin-right: auto;" />
 </p>
 
-<h1 align="center">Hey, Sup! I'm Thales Martins 👋</h1>
+# Hello! I'm Thales Martins 👋
 
-<p align="center">I'm passionate about technology, design, programming, and creativity. Here, you'll find the fusion of all these interests of mine (<i>It doesn't always turn out perfect, but I swear I try my best</i> 😆).</p>
+I'm passionate about technology, design, programming, and creativity. Here, you'll find the fusion of all these interests of mine (<i>It doesn't always turn out perfect, but I swear I try my best</i> 😆).</p>
 
-<p align="center">Feel free to explore my work and discover what I'm studying and developing.</p>
+Feel free to explore my work and discover what I'm studying and developing.
 
-<h2 align="center">🤔 Knowledge</h2>
+<h2>🤔 Knowledge</h2>
 
-<div align="center">
+<div>
   <div style="display: flex; align-items: flex-start;">
        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/arduino-language.png" alt="Arduino Language" style="width: 50px;">
        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/java-script.png" alt="Java Script" style="width: 50px;">
@@ -24,9 +24,9 @@
   </div
 </div>
 
-<h2 align="center">🧰 Tools</h2>
+<h2>🧰 Tools</h2>
 
-<div align="center">
+<div>
   <div style="display: flex; align-items: flex-start;">
        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/arduino.png" alt="Arduino IDE" style="width: 50px;">
        <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/fusion360.png" alt="Fusion 360" style="width: 50px;">
@@ -37,5 +37,3 @@
           <img src="https://github.com/thalesgmartins/icons/blob/main/png-prov/github.png" alt="Github" style="width: 50px;">
   </div
 </div>
-
-<h2 align="center">💻 "I am the way, and the truth, and the system."</h2>
