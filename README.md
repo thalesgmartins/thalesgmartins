@@ -20,7 +20,7 @@ Feel free to explore my work and discover what I'm studying and developing.
   <img src="icons/png-prov/c.png" alt="C Language" style="width: 50px;">
   <img src="icons/png-prov/mqtt.png" alt="MQTT Protocol" style="width: 50px;">
   <img src="icons/png-prov/3D-printing.png" alt="3D Printing" style="width: 50px;">
-</div
+</div>
 
 <h2>🧰 Tools</h2>
 
