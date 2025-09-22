@@ -6,7 +6,7 @@
 
 # Hello! I'm Thales Martins 👋
 
-I'm passionate about technology, design, programming, and creativity. Here, you'll find the fusion of all these interests of mine (<i>It doesn't always turn out perfect, but I swear I try my best</i> 😆).</p>
+I'm passionate about technology, design, programming, and creativity. Here, you'll find the fusion of all these interests of mine.</p>
 
 Feel free to explore my work and discover what I'm studying and developing.
 
