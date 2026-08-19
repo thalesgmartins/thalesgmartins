@@ -1,7 +1,5 @@
 # Hello! I'm Thales Martins 👋
 
-**Infrastructure Analyst | Computer Eng. Student | IoT & Automation**
-
 I'm a developer and Computer Engineering student who loves connecting the physical and digital worlds. I'm passionate about technology, programming, and design, bringing these interests together through IoT, automation, and infrastructure.
 
 [`🏠 thalesgmartins.com.br`](https://thalesgmartins.com.br)
