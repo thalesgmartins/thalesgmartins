@@ -1,35 +1,24 @@
-<p align="center">
-     <img src="banners/profile-banner.png"
-          alt="HomePage Banner"
-          style="display:block; margin-left: auto; margin-right: auto;" />
-</p>
-
 # Hello! I'm Thales Martins 👋
 
-I'm passionate about technology, design, programming, and creativity. Here, you'll find the fusion of all these interests of mine.</p>
+**Infrastructure Analyst | Computer Eng. Student | IoT & Automation**
 
-Feel free to explore my work and discover what I'm studying and developing.
+I'm a developer and Computer Engineering student who loves connecting the physical and digital worlds. I'm passionate about technology, programming, and design, bringing these interests together through IoT, automation, and infrastructure.
 
-<h2>🤔 Knowledge</h2>
+[`🏠 thalesgmartins.com.br`](https://thalesgmartins.com.br)
+[`📫 thalesdiniz30@gmail.com`](mailto:thalesdiniz30@gmail.com)
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="icons/png-prov/arduino-language.png" alt="Arduino Language" style="width: 50px;">
-  <img src="icons/png-prov/java-script.png" alt="Java Script" style="width: 50px;">
-  <img src="icons/png-prov/html.png" alt="HTML 5" style="width: 50px;">
-  <img src="icons/png-prov/CSS.png" alt="CSS 3" style="width: 50px;">
-  <img src="icons/png-prov/c.png" alt="C Language" style="width: 50px;">
-  <img src="icons/png-prov/mqtt.png" alt="MQTT Protocol" style="width: 50px;">
-  <img src="icons/png-prov/3D-printing.png" alt="3D Printing" style="width: 50px;">
-</div>
+### 🛠️ Core Tech
 
-<h2>🧰 Tools</h2>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-00979D?style=flat-square&logo=arduino&logoColor=white)
+![IoT & Embedded](https://img.shields.io/badge/IoT_&_Embedded-000000?style=flat-square&logo=espressif)
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="icons/png-prov/arduino.png" alt="Arduino IDE" style="width: 50px;">
-  <img src="icons/png-prov/fusion360.png" alt="Fusion 360" style="width: 50px;">
-  <img src="icons/png-prov/photoshop.png" alt="Photoshop" style="width: 50px;">
-  <img src="icons/png-prov/obsidian.png" alt="Obsidian" style="width: 50px;">
-  <img src="icons/png-prov/home-assistant.png" alt="Home Assistant" style="width: 50px;">
-  <img src="icons/png-prov/vs-code.png" alt="VS Code" style="width: 50px;">
-  <img src="icons/png-prov/github.png" alt="Github" style="width: 50px;">
-</div
+### 🏆 Highlighted Work
+
+- **Bifrost:** Modular IoT communication gateway routing messages via multiple protocols.
+- **TSShara UPS Monitor:** A modern UPSPowerMTR alternative for TS Sahara SYAL IN UPS monitoring.
+
+*~/thalesgmartins*
